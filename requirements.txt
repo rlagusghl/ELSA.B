@@ -1,0 +1,3 @@
+discord.py==0.16.12
+openpyxl.pt==20.0.2
+configparser.py==20.0.2
